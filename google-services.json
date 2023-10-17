@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266777200878",
+    "project_id": "notification-demo-f544f",
+    "storage_bucket": "notification-demo-f544f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266777200878:android:9b8cc8b55f015a17528bff",
+        "android_client_info": {
+          "package_name": "gobrax.webapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUcAQENJVgy7rvK5lEp2So5IheHBLqDHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
